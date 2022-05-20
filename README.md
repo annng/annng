@@ -13,6 +13,8 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+<a href="https://gitlab.com/pa_m">![Personal](https://img.shields.io/badge/-Personal-333333?style=flat&logo=gitlab)</a>
+<a href="https://gitlab.com/anang.pambudi">![Company](https://img.shields.io/badge/-Company-333333?style=flat&logo=gitlab)</a>
 
 
 ***
