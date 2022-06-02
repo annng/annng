@@ -27,10 +27,10 @@
 <table style="width:100%">
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api?username=annng&show_icons=true&theme=dark&locale=en&hide_border=true" alt="annng" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annng&theme=dark&hide_border=true&layout=compact"></td>
+    <td> <img src="https://wakatime.com/share/@anangpmb/a1bce23c-1a71-461d-b866-7f08a0e30bf6.svg" alt="anangpmb"/></td>
   </tr>
 </table>
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=anangpmb&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+[![wakatime](https://wakatime.com/share/@anangpmb/d8784e6b-2a8c-4ba7-989e-cc4f6a07248f.svg)](https://wakatime.com/@b09c4b81-e2ba-4548-84d3-4ac41d1be87f)
