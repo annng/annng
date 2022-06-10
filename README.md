@@ -20,7 +20,7 @@
 
 <a href="https://gitlab.com/pa_m">![Personal](https://img.shields.io/badge/-Personal-333333?style=flat&logo=gitlab)</a>
 <a href="https://gitlab.com/anang.pambudi">![Company](https://img.shields.io/badge/-Company-333333?style=flat&logo=gitlab)</a>
-
+[![wakatime](https://wakatime.com/badge/user/b09c4b81-e2ba-4548-84d3-4ac41d1be87f.svg)](https://wakatime.com/@b09c4b81-e2ba-4548-84d3-4ac41d1be87f)
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
@@ -30,8 +30,8 @@
     <td> <img src="https://wakatime.com/share/@anangpmb/01c4ec0a-40aa-420b-b33f-81259276b67f.svg" alt="Girl in a jacket" width="500" height="600"/></td>
   </tr>
 </table>
-
+<!-- 
 📊 &nbsp;**This week I spent my time on**
 
-<img src="https://wakatime.com/share/@anangpmb/d8784e6b-2a8c-4ba7-989e-cc4f6a07248f.svg"  width="500" height="600"/>
+<img src="https://wakatime.com/share/@anangpmb/d8784e6b-2a8c-4ba7-989e-cc4f6a07248f.svg"  width="500" height="600"/> -->
 
