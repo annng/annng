@@ -22,6 +22,10 @@
 <a href="https://gitlab.com/anang.pambudi">![Company](https://img.shields.io/badge/-Company-333333?style=flat&logo=gitlab)</a>
 [![wakatime](https://wakatime.com/badge/user/b09c4b81-e2ba-4548-84d3-4ac41d1be87f.svg)](https://wakatime.com/@b09c4b81-e2ba-4548-84d3-4ac41d1be87f)
 
+
+### My Portofolio if you curious about it
+<a href="https://github.com/annng/Portofolio">![Portofolio](https://img.shields.io/badge/Android-14C38E?style=flat&logo=Android&logoColor=white)</a>
+
 ### Keep in touch with me on
 <a href="https://www.linkedin.com/in/anang-pambudi-2b55b1129/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="mailto:anangpambudi101@gmail.com">![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=white?link=mailto:dadang.kotz@gmail.com)</a>
