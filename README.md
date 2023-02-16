@@ -24,13 +24,12 @@
 
 
 ### My Portofolio if you curious about it
-<a href="https://github.com/annng/Portofolio">![Portofolio](https://img.shields.io/badge/Android-14C38E?style=flat&logo=Android&logoColor=white)</a>
+<a href="https://github.com/annng/Portofolio">![Portofolio](https://img.shields.io/badge/android-14C38E?style=flat&logo=android&logoColor=white)</a>
 
 ### Keep in touch with me on
 <a href="https://www.linkedin.com/in/anang-pambudi-2b55b1129/">![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=blue)</a>
 <a href="mailto:anangpambudi101@gmail.com">![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=white?link=mailto:dadang.kotz@gmail.com)</a>
 <a href="https://t.me/anangpmb">![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=flat&logo=telegram&logoColor=white?link=https://t.me/irfanirawansukirman)</a>
-<a href="https://wa.me/6285747315450">![Whatsapp](https://img.shields.io/badge/Whatsapp-FFFFFF?style=flat&logo=whatsapp&logoColor=greenDark?link=https://wa.me/6285747315450)</a>
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
