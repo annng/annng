@@ -21,7 +21,6 @@
 
 
 <a href="https://gitlab.com/pa_m">![Personal](https://img.shields.io/badge/-Personal-333333?style=flat&logo=gitlab)</a>
-<a href="https://gitlab.com/anang.pambudi">![Company](https://img.shields.io/badge/-Company-333333?style=flat&logo=gitlab)</a>
 [![wakatime](https://wakatime.com/badge/user/b09c4b81-e2ba-4548-84d3-4ac41d1be87f.svg)](https://wakatime.com/@b09c4b81-e2ba-4548-84d3-4ac41d1be87f)
 
 
