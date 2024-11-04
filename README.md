@@ -7,7 +7,8 @@
 <li>I open for work as an Android Native Developer</li>
 -->
 <li>I am exited on mobile development both Android and iOS</li>
-<li>I am currently learning on Kotlin and Flutter!</li>
+<li>I am currently learning on Kotlin and Flutter</li>
+<li>But currently working as BE engineer using Java Springboot and Golang at Tech Consultant in Indonesia</li>
 </ul>
 
 ![Profile Visit](https://komarev.com/ghpvc/?username=annng&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%adeds)
